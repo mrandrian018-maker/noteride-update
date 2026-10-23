@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "downloadUrl": "",
-  "message": "Kamu sudah menggunakan NOTERIDE versi terbaru."
+  "versionCode": 2,
+  "versionName": "1.1",
+  "downloadUrl": "https://raw.githubusercontent.com/mrandrian018-maker/noteride-update/main/app-debug.apk",
+  "message": "Pembaruan NOTERIDE v1.1 tersedia! Tekan Update Sekarang untuk memperbarui aplikasi."
 }
